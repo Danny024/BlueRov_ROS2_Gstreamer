@@ -1,8 +1,9 @@
 # BlueRov_ROS2_Gstreamer
-This a C++ ROS2 wrapper that streams images from bluerov2 and publishes it as a compressed images getting images from the blueOS ip address
-The Gstreamer is C based light weight image streamer platform that enables fast and efficient streaming of images. 
+This a C++ ROS2 wrapper that streams images from bluerov2 and publishes it as a compressed images getting images from the blueOS ip address.
+The Gstreamer is a C based light weight image streamer platform that enables fast and efficient streaming of images. 
 
-This code is used to stream images directly from the raspberry pi running BlueOS on Bluerov2 Heavy
+
+This code is used to stream images directly from the default raspberry pi running BlueOS on Bluerov2 Heavy.
 [Gstreamer](https://gstreamer.freedesktop.org/)
 
 
