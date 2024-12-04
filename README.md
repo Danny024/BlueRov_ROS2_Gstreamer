@@ -5,8 +5,12 @@ The Gstreamer is C based ligh weight image streamer platform that enables fast a
 This code is used to stream images directly from the raspberry pi running BlueOS on Bluerov2 Heavy.
 [Gstreamer](https://gstreamer.freedesktop.org/)
 
-## Installations and Dependencies
-```OpenCV 4.x Used```
+
+## Dependencies
+- OpenCV 4.x used
+- Gstreamer 1.x
+
+## Installations
 ```sudo apt-get install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-qt5 gstreamer1.0-pulseaudio```
 
 ## How to Install
