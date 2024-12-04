@@ -22,7 +22,7 @@ Install from source
 ## How to Install
 ```
 mkdir -p /bluerov_driver_ws
-cd bluerov-driver_ws && mkdir src
+cd bluerov_driver_ws && mkdir src
 cd src
 git clone https://github.com/Danny024/BlueRov_ROS2_Gstreamer.git
 cd ~/bluerov_driver_ws
