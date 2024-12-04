@@ -44,5 +44,11 @@ ros2 launch bluerov_driver video.launch.py
 [Bluerov Demo Video](https://www.youtube.com/watch?v=TbSJK_imS7o)
 
 
+### Ros2 Publisher Topic 
+
+
+
+
+
 
 
