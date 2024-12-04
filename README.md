@@ -18,7 +18,6 @@ This code is used to stream images directly from the default raspberry pi runnin
 ### OpenCV 4.x
 Install from source
 - [Open CV 4.x Installation](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html)
-- [Ros2 Humble](https://docs.ros.org/en/humble/index.html)
 
 ## How to Install
 ```
@@ -31,7 +30,7 @@ colcon build
 ```
 ## System Used
 [Ubuntu 22.04](https://ubuntu.com/tutorials/install-ubuntu-desktop#2-download-an-ubuntu-image)
-ROS 2 Humble]
+[Ros2 Humble](https://docs.ros.org/en/humble/index.html)
 
 ## How to Use 
 ```
