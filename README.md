@@ -29,7 +29,7 @@ cd ~/bluerov_driver_ws
 colcon build
 ```
 ## System Used
-Ubuntu 22.04
+[Ubuntu 22.04](https://ubuntu.com/tutorials/install-ubuntu-desktop#2-download-an-ubuntu-image)
 ROS 2 Humble
 
 ## How to Use 
