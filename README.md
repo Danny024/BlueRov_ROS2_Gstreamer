@@ -39,7 +39,7 @@ source install/setup.bash
 ros2 launch bluerov_driver video.launch.py
 ```
 
-## Demo Video
+## Latency Test Video
 [![Demo Video](https://img.youtube.com/vi/TbSJK_imS7o/0.jpg)](https://www.youtube.com/watch?v=TbSJK_imS7o)
 
 
