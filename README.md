@@ -15,7 +15,8 @@ This code is used to stream images directly from the raspberry pi running BlueOS
 ```sudo apt-get install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-qt5 gstreamer1.0-pulseaudio```
 
 ### OpenCV 4.x
-
+Install from source
+[Open CV 4.x Installation](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html)
 
 ## How to Install
 ```
