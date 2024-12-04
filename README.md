@@ -41,7 +41,7 @@ ros2 launch bluerov_driver video.launch.py
 ```
 
 ## Demo Video
-[![Unmanned Aerial Vehicle](https://www.youtube.com/watch?v=TbSJK_imS7o/0.jpg)](https://www.youtube.com/watch?v=TbSJK_imS7o)
+[![Demo Video](https://www.youtube.com/watch?v=TbSJK_imS7o/0.jpg)](https://www.youtube.com/watch?v=TbSJK_imS7o)
 
 
 
