@@ -28,7 +28,6 @@ git clone https://github.com/Danny024/BlueRov_ROS2_Gstreamer.git
 cd ~/bluerov_driver_ws
 colcon build
 ```
-
 ## System Used
 Ubuntu 22.04
 ROS 2 Humble
@@ -44,12 +43,12 @@ ros2 launch bluerov_driver video.launch.py
 [![Demo Video](https://www.youtube.com/watch?v=TbSJK_imS7o/0.jpg)](https://www.youtube.com/watch?v=TbSJK_imS7o)
 
 
-
 ### Ros2 Publisher Topic 
 ROS topic published:
 ```
 /bluerov2/camera/compressed
 ```
+
 
 
 
