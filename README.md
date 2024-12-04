@@ -46,7 +46,10 @@ ros2 launch bluerov_driver video.launch.py
 
 
 ### Ros2 Publisher Topic 
-
+ROS topic published:
+```
+/bluerov2/camera/compressed
+```
 
 
 
