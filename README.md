@@ -11,7 +11,11 @@ The Gstreamer is C based ligh weight image streamer platform that enables fast a
 mkdir bluerov_driver_ws
 cd bluerov-driver_ws && mkdir src
 cd src
-git clone 
+git clone https://github.com/Danny024/BlueRov_ROS2_Gstreamer.git
 ```
+
+## System Used
+Ubuntu 22.04
+ROS 2 Humble
 
 
