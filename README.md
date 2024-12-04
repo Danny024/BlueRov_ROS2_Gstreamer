@@ -29,8 +29,8 @@ cd ~/bluerov_driver_ws
 colcon build
 ```
 ## System Used
-[Ubuntu 22.04](https://ubuntu.com/tutorials/install-ubuntu-desktop#2-download-an-ubuntu-image)
-[Ros2 Humble](https://docs.ros.org/en/humble/index.html)
+- [Ubuntu 22.04](https://ubuntu.com/tutorials/install-ubuntu-desktop#2-download-an-ubuntu-image)
+- [Ros2 Humble](https://docs.ros.org/en/humble/index.html)
 
 ## How to Use 
 ```
