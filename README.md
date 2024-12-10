@@ -19,6 +19,7 @@ This code is used to stream images directly from the default raspberry pi runnin
 Install from source
 - [Open CV 4.x Installation](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html)
 <br>
+
   ```sudo apt update sudo apt install -y build-essential cmake git pkg-config libgtk-3-dev libcanberra-gtk3-module libavcodec-dev libavformat-dev libswscale-dev libv4l-dev libxvidcore-dev libx264-dev libjpeg-dev libpng-dev libtiff-dev gfortran openexr libatlas-base-dev python3-dev python3-numpy libtbb2 libtbb-dev libdc1394-22-dev```
 
 ## How to Install
